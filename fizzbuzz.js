@@ -13,6 +13,4 @@ function fizzBuzzOutput(value) {
 for (var i = 1; i < 101; i++) {
   console.log(fizzBuzzOutput(i));
 }
-
-
 module.exports.fizzBuzzOutput = fizzBuzzOutput;
