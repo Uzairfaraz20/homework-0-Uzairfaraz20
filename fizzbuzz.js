@@ -10,7 +10,7 @@ function fizzBuzzOutput(value) {
 }
 }
 
-for (let i = 1; i < 101; i++) {
+for (var i = 1; i < 101; i++) {
   console.log(fizzBuzzOutput(i));
 }
 
